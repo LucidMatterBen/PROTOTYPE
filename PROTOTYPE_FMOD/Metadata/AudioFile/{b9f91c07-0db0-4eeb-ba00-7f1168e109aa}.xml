@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{b9f91c07-0db0-4eeb-ba00-7f1168e109aa}">
+		<property name="assetPath">
+			<value>TRACKS/Baseck - 145.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>256.65306122448982</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{14228458-716a-422e-a46e-9e2edd59906c}</destination>
+		</relationship>
+	</object>
+</objects>
